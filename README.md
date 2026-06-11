@@ -1,6 +1,6 @@
 # StrainEstimationLaboratoryBeam
 
-Authors: Jonathan Thurn1 (j.thurn@isd.uni-hannvoer.de), Clemens Jonscher1, Benedikt Hofmeister2
+Authors: Jonathan Thurn1 (j.thurn@isd.uni-hannover.de), Clemens Jonscher1, Benedikt Hofmeister2
 
 1 Leibniz University Hannover, Institute of Structural Analysis, Appelstr. 9A, D-30167 Hannover, Germany
 
